@@ -142,4 +142,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Firebase** for seamless backend integration.
 - **Clerk** for simplifying user authentication.
 - **Material-UI** for beautiful and responsive UI components.
-- **Groq API** for providing free access to near-production level LLMs
+- **Groq API** for providing free access to near-production level LLMs.
