@@ -142,13 +142,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Firebase** for seamless backend integration.
 - **Clerk** for simplifying user authentication.
 - **Material-UI** for beautiful and responsive UI components.
-
-## Contact
-
-For questions or feedback, feel free to reach out:
-
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **GitHub** - [your-username](https://github.com/your-username)
-- **Project Link** - [Flashcard Generator](https://github.com/your-username/flashcard-generator)
-
-*Replace placeholders (e.g., your-username, your.email@example.com, etc.) with your actual information. Add screenshots, GIFs, or a live demo link to make the README more engaging!* 🚀
+- **Groq API** for providing free access to near-production level LLMs
