@@ -2,7 +2,7 @@
 
 ## Flashcard Generator Demo
 
-![Flashcard Generator Demo](path/to/screenshot-or-gif)
+![Flashcard Generator Demo](https://flashcard-generator-ptb3duxqz-darkboy17s-projects.vercel.app/)
 
 The Flashcard Generator is a web application that allows users to create, save, and study flashcards on various topics using AI. It leverages modern technologies like Next.js, Firebase, and Clerk for authentication and data storage. Whether you're a student, teacher, or lifelong learner, this tool makes it easy to generate and organize flashcards for efficient learning.
 
