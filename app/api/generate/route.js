@@ -64,7 +64,7 @@ export async function POST(req) {
   const JSONData = JSON.parse(responseData).flashcards;
 
   // Parse the JSON response from the GROQ API
-  console.log("data: ", JSONData);
+  // console.log("data: ", JSONData);
 
   // Return the flashcards as a JSON response
   return NextResponse.json(JSONData);
